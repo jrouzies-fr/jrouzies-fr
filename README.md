@@ -1,3 +1,5 @@
+<a href="https://www.linkedin.com/in/jlrouzies">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 # Hi, I’m @jrouzies-fr 👋
 
 ## Background & Phylosophie
@@ -9,28 +11,6 @@ Over time, PowerShell became more than just an administration tool for me — it
 Today, I don't consider myself purely a Software Engineer nor purely an Infrastructure Engineer. It is an hybrid role combining Messaging infrastructure expertise, automation and .NET development.
 
 **I enjoy working between both worlds**: building practical tools, automating complex environments, and solving production problems with code.
-
----
-
-## Evolution
-
-Started with:
-
-* Exchange & Microsoft 365 administration
-* Infrastructure monitoring and backups
-* Mail security and hybrid environments
-* PowerShell automation
-
-Progressively moved toward:
-
-* C# / .NET development (ASP.NET & Web APIs & Windows Services)
-* Azure Automation (PowerShell w. Hybrid Workers) & Logic Apps
-* Microsoft Graph integrations
-
-Most of my projects sit somewhere between infrastructure and development:
-automating provisioning, integrating cloud services, and building tools around messaging systems.
-
-I also pushed a few forks/projects around Exchange Online and OAuth2 integrations, for `NLog` and `Serilog` to support Exchange Online migration (*on my corporate github account*).
 
 ---
 
